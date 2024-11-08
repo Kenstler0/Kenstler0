@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kenstler0 and I'm a student.
+# 👋 Hi, I’m Kenstler_0 and I'm a student.
 # Welcome to my account!
 # About me
 <p align="left">I am a novice programmer who joined the Faculty of Programming in 2023. </p>
